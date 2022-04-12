@@ -1,0 +1,11 @@
+.header {
+  position: sticky !important;
+  width: 100vw;
+  padding: 25px 0;
+  text-align: center;
+  background: #ffffff;
+}
+.header span{
+  padding-left: 1em;
+  padding-right: 1em;
+}  

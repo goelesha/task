@@ -1,0 +1,51 @@
+.preview{
+    padding-top: 10vh;
+    padding-left: 320px;
+    &__heading{
+        padding-left: 100px;
+        font-size: larger;
+    }
+    &__subheading{
+        padding-left: 100px;
+        padding-bottom: 20px;
+    }
+}
+.form{
+    padding-left: 420px;
+    &__heading{
+        padding-top: 20px;
+        padding-left: 60px;
+        font-size: x-large;
+        width: 50vw;
+        background-color: rgba(26, 143, 230, 0.15);;
+    }
+    &__subheading{
+        padding-top: 5px;
+        padding-left: 60px;
+        font-size: large;
+        width: 50vw;
+        background-color: rgba(26, 143, 230, 0.15);
+    }
+    &__description{
+        padding-top: 30px;
+        padding-left: 60px;
+        font-size: medium;
+        width: 50vw;
+        background-color: rgba(26, 143, 230, 0.15);
+        padding-bottom: 30px;
+    }
+}
+.form-fields{
+    padding-left: 420px;
+    &__field{
+        padding-top: 20px;
+        padding-left: 90px;
+        background-color: white;
+        width:50vw;
+        padding-bottom: 20px;
+
+        &__input{
+            width:30vw;
+        }
+    }
+}
